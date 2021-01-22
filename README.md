@@ -32,4 +32,4 @@ Sar değerinin ne olduğu, ne kadar olduğu hakkında bilgi edinebilirsiniz.</p>
 <p class="has-line-data" data-line-start="28" data-line-end="30">License<br>
 Herhangi bir yerde paylaşmak, değişiklik yapmak için öncelikle bana ulaşınız.</p>
 <hr>
-<h2 class="code-line" data-line-start=31 data-line-end=33 ><a id="MIT_31"></a>MIT</h2>
+<h2 class="code-line" data-line-start=31 data-line-end=33 ><a id="MIT_31"></a>Creative Commons Zero v1.0 Universal</h2>
